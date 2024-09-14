@@ -1,4 +1,4 @@
-# <img src="https://github.com/ZachPereira14/odin/blob/main/odin_icon.ico?raw=true" alt="Odin Icon" width="50" height="50"> <span style="font-size: 40px;">Odin -- Astrophotography Processing Toolbox</span>
+# <img src="https://github.com/ZachPereira14/odin/blob/main/odin_icon.ico?raw=true" alt="Odin Icon" width="60" height="60"> <span style="font-size: 60px;">Odin -- Astrophotography Processing Toolbox</span>
 
 
 
