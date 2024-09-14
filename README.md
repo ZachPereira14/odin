@@ -1,15 +1,43 @@
-<!-- Title of the section -->
-<h1>Odin -- Astrophotography Processing Toolbox</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Odin -- Astrophotography Processing Toolbox</title>
+    <style>
+        .container {
+            overflow: auto; /* Clearfix for float */
+        }
+        .image-right {
+            float: right;
+            width: 120px;
+            height: 120px;
+            margin-left: 15px; /* Space between the image and text */
+        }
+    </style>
+</head>
+<body>
+    <!-- Title of the section -->
+    <h1>Odin -- Astrophotography Processing Toolbox</h1>
 
-<!-- Image aligned to the right -->
-<img src="https://github.com/ZachPereira14/odin/blob/main/odin_icon.ico?raw=true" 
-     alt="Odin Icon" 
-     style="float: right; width: 120px; height: 120px;">
+    <div class="container">
+        <!-- Image aligned to the right -->
+        <img src="https://github.com/ZachPereira14/odin/blob/main/odin_icon.ico?raw=true" 
+             alt="Odin Icon" 
+             class="image-right">
 
-<!-- Description text -->
-<p>
-    Odin is a Python package designed for advanced image processing, specifically tailored for astrophotography. It provides a collection of tools to enhance, filter, and analyze astronomical images.
-</p>
+        <!-- Description text -->
+        <p>
+            Odin is a Python package designed for advanced image processing, specifically tailored for astrophotography. It provides a collection of tools to enhance, filter, and analyze astronomical images.
+        </p>
+    </div>
+
+    <!-- Additional content -->
+    <h2>Features</h2>
+    <!-- Add features or other sections here -->
+</body>
+</html>
+
 
 ## Features
 
