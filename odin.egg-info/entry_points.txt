@@ -1,0 +1,2 @@
+[console_scripts]
+odin-cli = odin.cli:main
