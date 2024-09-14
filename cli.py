@@ -10,6 +10,12 @@ from odin.image_filtering.edge_detection import edge_detection_func
 from odin.image_filtering.morphological_operations import amorphological_operations_func
 from odin.image_filtering.rescaling import rescaling_func
 
+
+
+"""This is really broken!!! dont forget to fix!"""
+
+
+
 def main():
     parser = argparse.ArgumentParser(description='Odin Astrophotography Toolbox CLI')
 
