@@ -1,4 +1,5 @@
-# ![Odin Icon](https://github.com/ZachPereira14/odin/blob/main/odin_icon.ico?raw=true) Odin -- Astrophotography Processing Toolbox
+# <img src="https://github.com/ZachPereira14/odin/blob/main/odin_icon.ico?raw=true" alt="Odin Icon" width="50" height="50"> Odin -- Astrophotography Processing Toolbox
+
 
 
 Odin is a Python package designed for advanced image processing, specifically tailored for astrophotography. It provides a collection of tools to enhance, filter, and analyze astronomical images.
